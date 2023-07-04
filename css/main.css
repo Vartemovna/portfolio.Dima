@@ -90,7 +90,15 @@ a {
   display: flex;
   flex-direction: column;
   position: relative;
-  top: 50%;
+  top: 40%;
+}
+
+.signature {
+  position: relative;
+  top: 80%;
+  text-align: right;
+  color:rgb(102, 97, 96);
+  margin-right: 5px;
 }
 
 /* dark mode */
