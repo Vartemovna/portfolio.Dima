@@ -99,6 +99,7 @@ a {
   text-align: right;
   color:rgb(102, 97, 96);
   margin-right: 5px;
+  opacity: .2;
 }
 
 /* dark mode */
